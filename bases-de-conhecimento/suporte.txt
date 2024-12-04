@@ -1,0 +1,42 @@
+PROBLEMA: Terminal não inicia, tela preta após ligar
+SOLUÇÃO: 
+1. Verificar cabo de força e conexões
+2. Pressionar botão de reset por 10 segundos
+3. Se persistir, verificar fonte de alimentação com multímetro
+4. Em último caso, substituir fonte de alimentação
+---
+
+PROBLEMA: Dispensador não libera cédulas, erro DISP-01
+SOLUÇÃO:
+1. Acessar compartimento do dispensador
+2. Verificar se há cédulas atoladas no caminho
+3. Limpar sensores com kit de limpeza eletrônica
+4. Realizar teste de dispensação com cassete de teste
+5. Se erro persistir, recalibrar sensores do dispensador
+---
+
+PROBLEMA: Leitor de cartão não reconhece cartões, erro CARD-02
+SOLUÇÃO:
+1. Utilizar cartão de limpeza 3 vezes
+2. Verificar alinhamento físico do leitor
+3. Testar com cartão magnético de diagnóstico
+4. Se não resolver, substituir leitor de cartão
+---
+
+PROBLEMA: Impressora não imprime comprovantes, erro PRT-01
+SOLUÇÃO:
+1. Verificar se há papel na bobina
+2. Conferir se papel está bem encaixado
+3. Limpar cabeça de impressão com álcool isopropílico
+4. Realizar teste de impressão
+5. Se falhar, substituir módulo da impressora
+---
+
+PROBLEMA: Terminal sem comunicação com a central, erro COM-01
+SOLUÇÃO:
+1. Verificar luzes do modem (devem estar verdes)
+2. Reiniciar modem (desligar, aguardar 30s, religar)
+3. Verificar conexão dos cabos de rede
+4. Executar ping para servidor central
+5. Se não resolver, substituir modem
+---
